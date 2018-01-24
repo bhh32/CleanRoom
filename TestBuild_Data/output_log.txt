@@ -1,0 +1,73 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon(TM) RX 580 (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8175 MB
+    Driver:   22.19.159.256
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Bryan-Laptop\Documents\Slappy Pappy\TestBuild_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.019 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.520684 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1cb8 -> priority: 1 
+  Thread -> id: 25b4 -> priority: 1 
+  Thread -> id: 1b24 -> priority: 1 
+  Thread -> id: 1914 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.427487 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 890.
+Total: 0.332581 ms (FindLiveObjects: 0.041572 ms CreateObjectMapping: 0.016045 ms MarkObjects: 0.257094 ms  DeleteObjects: 0.017139 ms)
+
+You have collected a Exploding Mess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You have collected a Exploding Mess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You have collected a Exploding Mess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You have collected a Exploding Mess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You have collected a Base Mess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You have collected a Exploding Mess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You have collected a Base Mess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You have collected a Base Mess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
